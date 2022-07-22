@@ -20,3 +20,6 @@ For support, email arhamrumi007@gmail.com
 DM me on [LinkedIn](https://www.linkedin.com/in/arham-rumi-94769b180/)
 
   
+## Connection Links 🔗
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://arham-rumi.netlify.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arham-rumi-94769b180/)
